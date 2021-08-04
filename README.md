@@ -3,6 +3,7 @@
 - 🌱 Estou actualmente a estudar Javascript e Marketing Digital
 - 📫 Entre em contacto comigo pelo email: creumakuzola@gmail.com
 - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Creuma Amor 
+- 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=Creuma-Kuzola&color=green" alt="Creuma-Kuzola" /> 
 
 <div>
   <a href="https://github.com/Creuma-Kuzola">
