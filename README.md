@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Creuma Kuzola 😉
-- 🔭 Actualmete trabalho como Front-End Dev e Design
+- 🔭 Actualmete trabalho como Front-End Dev , Designer e Marketeer
 - 🌱 Estou actualmente a estudar Javascript e Marketing Digital
 - 📫 Entre em contacto comigo pelo email: creumakuzola@gmail.com
 - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Creuma Amor 
