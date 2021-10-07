@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Creuma Kuzola 😉
+- 🏫 Sou Bacharel no curso de Engenharia Informática na UCAN
 - 🔭 Actualmete trabalho como Front-End Dev , Designer e Marketeer
 - 🌱 Estou actualmente a estudar Javascript e Marketing Digital
 - 📫 Entre em contacto comigo pelo email: creumakuzola@gmail.com
