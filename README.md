@@ -23,7 +23,31 @@
  </div>
   
   <br>
-
+<details title="Lucas Magalhães's Trophies">
+    <br />
+    <summary align="left"><strong><i>Marcio Zebedeu Trophies</i></strong> 🏆</summary>
+    <p align="center">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=zebedeu&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
+             width="60%"
+             title="Lucas Magalhães's Trophies"
+        />
+    </p>
+    <p align="center">
+      <a href="https://github.com/zebedeu/zebedeu/issues">
+        <img src="https://img.shields.io/github/issues/zebedeu/zebedeu" title="issues" alt="issues" /> 
+      </a>
+      <a href="https://github.com/zebedeu/zebedeu/network/members">
+        <img src="https://img.shields.io/github/forks/zebedeu/zebedeu" title="forks" alt="forks" /> 
+      </a>
+      <a href="https://github.com/zebedeu/zebedeu/stargazers">
+        <img src="https://img.shields.io/github/stars/zebedeu/zebedeu" title="stars" alt="stars" /> 
+      </a>
+       <a href="https://github.com/zebedeu/zebedeu/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/zebedeu/zebedeu" title="license" alt="license" /> 
+      </a>
+    </p>
+</details>
 
  <a href="https://www.instagram.com/creuma_kuzola/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:creumakuzola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
