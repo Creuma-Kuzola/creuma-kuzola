@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Creuma Kuzola 😉
 - 🏫 Sou <b> estudante do 4º ano</b> no curso de Engenharia Informática na UCAN
 - 🔭 Actualmete trabalho como Front-End Dev e Marketeer
-- 🌱 Estou actualmente a estudar JS!
+- 🌱 Estou actualmente a estudar React JS e TypeScript!
 - 📫 Entre em contacto comigo pelo email: creumakuzola@gmail.com
 - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Creuma Amor 
 - 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=Creuma-Kuzola&color=green" alt="Creuma-Kuzola" /> 
