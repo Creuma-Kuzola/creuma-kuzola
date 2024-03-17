@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Creuma Kuzola 😉
-- 🏫 Sou <b> estudante do 4º ano</b> no curso de Engenharia Informática na UCAN
+- 🏫 Sou <b> finalista </b> do curso de Engenharia Informática na UCAN
 - 🔭 Actualmente trabalho como Front-End Dev e Gestora de Redes Sociais!
 - 📫 Entre em contacto comigo pelo email: creumakuzola@gmail.com
 - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Creuma Amor 
